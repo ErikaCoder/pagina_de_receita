@@ -1,5 +1,5 @@
 # Página de Receita - Cupcake de Café com Chantilly
-Este projeto foi desenvolvido durante o curso da Rocketseat, com o objetivo de praticar os fundamentos de **HTML5** e **CSS3**. A proposta foi criar uma página simples de receita culinária.
+Este projeto foi desenvolvido durante o curso fullstack da Rocketseat, com o objetivo de praticar os fundamentos de **HTML5** e **CSS3**. A proposta foi criar uma página simples de receita culinária.
 
 ## 🚀 Tecnologias utilizadas
 
